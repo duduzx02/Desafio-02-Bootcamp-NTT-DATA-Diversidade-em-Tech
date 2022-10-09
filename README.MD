@@ -1,6 +1,6 @@
 # Desafio 02 NTT DATA
 
-![preview](./.github/duduzx02.github.io_Desafio-02-Bootcamp-NTT-DATA-Diversidade-em-Tech_.PNG)
+![preview](./.github/duduzx02.github.io_Desafio-02-Bootcamp-NTT-DATA-Diversidade-em-Tech_.png)
 
 > bootcamp ntt data DIO
 
