@@ -4,7 +4,7 @@
 
 > bootcamp ntt data DIO
 
-
+[Clique aqui para acessar](https://duduzx02.github.io/Desafio-02-Bootcamp-NTT-DATA-Diversidade-em-Tech/)
 ##  Tecnologias
 
 - HTML
